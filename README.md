@@ -1,16 +1,18 @@
-### Hi there 👋
+![I am a Flutter Devloper](https://pbs.twimg.com/profile_banners/1460977015180304384/1646836259/600x200)
+
+### Hi there 👋, I am Masum Rahman
+#### I am a Flutter Devloper
 
 
-**masumrahman0/masumrahman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: Dart / Flutter / JS / HTML / CSS / PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a Flutter Project. 
+- 🌱 I’m currently learning about Flutter in depth. 
+- 👯 I’m looking to collaborate on GitHub. 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masumrahman0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/samiul.sam3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/samiul.sam3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@masumrahman099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@masum099)  
+
+![Profile views](https://gpvc.arturio.dev/masumrahman0)  
