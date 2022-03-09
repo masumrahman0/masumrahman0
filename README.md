@@ -4,7 +4,7 @@
 ## I am a Flutter Devloper
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hi, I am Masum Rahman. I want to be a developer in my career. so, I left my past and started my new journey.
 
 Skills: Dart / Flutter / JS / HTML / CSS / PHP
 
