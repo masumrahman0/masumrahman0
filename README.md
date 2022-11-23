@@ -1,12 +1,12 @@
 ![I am a Flutter Devloper](https://pbs.twimg.com/profile_banners/1460977015180304384/1646836259/600x200)
 
 # Hi there 👋, I am Masum Rahman
-## I am a Flutter Devloper
+## I am a Full Stack Web Devloper
 
 
 Hi, I am Masum Rahman. I want to be a developer in my career. so, I left my past and started my new journey.
 
-Skills: Dart / Flutter / JS / HTML / CSS / PHP
+Skills: Dart / Flutter / JS / HTML / CSS / PHP / Liquid / Shopify
 
 - 🔭 I’m currently working on a Flutter Project. 
 - 🌱 I’m currently learning about Flutter in depth. 
